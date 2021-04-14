@@ -165,10 +165,10 @@ Pingnoo uses a modular design architecture based on components (aka plugins); th
 
 The following compiler configurations are known to work for development.  (We do not supply binaries for 32-bit systems)
 
-- ***Linux*** - 32 & 64-bit using GNU g++
-- ***Windows*** - 32 & 64-bit using MSVC 2019 Community Edition
-- ***Windows*** - 32 & 64-bit using mingw-g++
-- ***Mac OS*** - 64-bit using clang from the xcode command line tools
+  - ***Linux*** - 32 & 64-bit using GNU g++
+  - ***Windows*** - 32 & 64-bit using MSVC 2019 Community Edition
+  - ***Windows*** - 32 & 64-bit using mingw-g++
+  - ***Mac OS*** - 64-bit using clang from the xcode command line tools
 
 ### Building from source
 
